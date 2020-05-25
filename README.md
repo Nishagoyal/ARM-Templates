@@ -9,7 +9,7 @@ To implement infrastructure as code for your Azure solutions, use Azure Resource
 4. Multi-service 
 5. Multi region
 6. Extensible 
-#
+#t
 # Template deployment types:
 The ‘complete’ mode deletes any objects that do not appear in the template and the resource group you are deploying to. In this scenario, what you get is the ability to know that whenever you deploy you will be in exactly the same state.
 
