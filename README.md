@@ -3,9 +3,12 @@ To implement infrastructure as code for your Azure solutions, use Azure Resource
 
 # It is:
 
-Template-driven 
+1 Template-driven 
+2 
 Declarative 
 Idempotent 
 Multi-service 
 Multi region
 Extensible 
+
+#
